@@ -1,0 +1,17 @@
+---
+title: "About Me"
+---
+
+My name is Sierra Grey-Coker.
+
+In May 2022 I graduated as a [Sondheim Public Affairs](https://sondheim.umbc.edu/) scholar from the [University of Maryland, Baltimore County (UMBC)](https://umbc.edu/), where I studied mathematics, statistics and public health. As an undergraduate, I also participated in the Summer Institute for Research Education in Biostatistics at Boston University, funded by the National Heart, Lungs, and Blood Institute, where I analyzed data collected from the Framingham Heart Study and Jackson Heart Study, and worked with a team to identify genetic variants associated with blood pressure in Hispanics.
+
+I first became interested in public health by learning of John Snow and his work on the 1854 Cholera outbreak in London. I find the process he went through to solve the 1854 Cholera outbreak in London fascinating and wanted to learn and be able to apply processes similar to what he did.
+
+My goal is to work with policy-makers and community stakeholders to create positive effects in community health. Specifically, I want to know how social determinants and public policies affect community health and equity. In the short-term, this means learning all I can through course-work and research in pursuit of my PhD.
+
+![](snow-map.jpg)
+
+::: {.column-margin}
+Map of Cholera cases in 1854 London.
+:::

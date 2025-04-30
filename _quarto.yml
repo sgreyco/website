@@ -1,0 +1,20 @@
+project:
+  type: website
+
+website:
+  title: Sierrra Grey-Coker
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: about.qmd
+        text: About
+    right: 
+      - href: email:sierra.grey-coker@outlook.com
+        icon: email
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true

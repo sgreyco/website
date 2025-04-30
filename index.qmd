@@ -1,0 +1,15 @@
+---
+title: "Hello!"
+---
+
+::: {.grid}
+
+::: {.g-col-4}
+![](profile-picture.jpg)
+:::
+
+::: {.g-col-8}
+My name is Sierra. I am a research assistant interested in data and information management. In my free time, I enjoy watching movies, doing puzzles, and being with family and friends.
+:::
+
+:::

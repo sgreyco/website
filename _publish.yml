@@ -1,0 +1,8 @@
+- source: website.Rproj
+  quarto-pub:
+    - id: d7d5e1f1-1ad9-468f-8b29-26c878e93410
+      url: https://sierragreycoker.quarto.pub/me/
+- source: project
+  quarto-pub:
+    - id: 299e6549-3830-4285-b7f2-436789cadc8c
+      url: https://sierragreycoker.quarto.pub/sierragreycoker
