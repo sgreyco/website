@@ -7,8 +7,8 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - href: about.qmd
-        text: About
+      # - href: about.qmd
+      #   text: About
     right: 
       - href: email:sierra.grey-coker@outlook.com
         icon: email
@@ -18,3 +18,4 @@ format:
     theme: cosmo
     css: styles.css
     toc: true
+
