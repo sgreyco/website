@@ -91,11 +91,7 @@ ul.task-list li input[type="checkbox"] {
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
     <a class="nav-link active" href="./index.html" aria-current="page"> 
-<span class="menu-text">Home</span></a>
-  </li>  
-  <li class="nav-item">
-    <a class="nav-link" href="./about.html"> 
-<span class="menu-text">About</span></a>
+<span class="menu-text">Hello!</span></a>
   </li>  
 </ul>
             <ul class="navbar-nav navbar-nav-scroll ms-auto">
@@ -116,10 +112,9 @@ ul.task-list li input[type="checkbox"] {
 <!-- sidebar -->
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar zindex-bottom">
-        
     </div>
 <!-- main -->
-<main class="content" id="quarto-document-content">
+<main class="content page-columns page-full" id="quarto-document-content">
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
@@ -140,16 +135,23 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<div class="grid">
-<div class="g-col-4">
-<p><img src="profile-picture.jpg" class="img-fluid"></p>
-</div>
-<div class="g-col-8">
-<p>My name is Sierra. I am a research assistant interested in data and information management. In my free time, I enjoy watching movies, doing puzzles, and being with family and friends.</p>
-</div>
-</div>
+<center>
+<p>I’m Sierra. I am a research assistant interested in data and information management. In my free time, I enjoy watching movies, doing puzzles, and being with family and friends.</p>
+<img src="profile-picture.jpg" class="img-fluid">
+</center>
+<section id="about-me" class="level1 page-columns page-full">
+<h1>About Me</h1>
+<p>My name is Sierra Grey-Coker.</p>
+<p>In May 2022 I graduated as a <a href="https://sondheim.umbc.edu/">Sondheim Public Affairs</a> scholar from the <a href="https://umbc.edu/">University of Maryland, Baltimore County (UMBC)</a>, where I studied mathematics, statistics and public health. As an undergraduate, I also participated in the Summer Institute for Research Education in Biostatistics at Boston University, funded by the National Heart, Lungs, and Blood Institute, where I analyzed data collected from the Framingham Heart Study and Jackson Heart Study, and worked with a team to identify genetic variants associated with blood pressure in Hispanics.</p>
+<p>I first became interested in public health by learning of John Snow and his work on the 1854 Cholera outbreak in London. I find the process he went through to solve the 1854 Cholera outbreak in London fascinating and wanted to learn and be able to apply processes similar to what he did.</p>
+<p>My goal is to work with policy-makers and community stakeholders to create positive effects in community health. Specifically, I want to know how social determinants and public policies affect community health and equity.</p>
+<p><img src="snow-map.jpg" class="img-fluid"></p>
 
 
+
+<div class="no-row-height column-margin column-container"><div class="">
+<p>Map of Cholera cases in 1854 London.</p>
+</div></div></section>
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
@@ -224,7 +226,7 @@ ul.task-list li input[type="checkbox"] {
     }
       var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
       var mailtoRegex = new RegExp(/^mailto:/);
-        var filterRegex = new RegExp("https:\/\/299e6549-3830-4285-b7f2-436789cadc8c\.netlify\.app\/");
+        var filterRegex = new RegExp('/' + window.location.host + '/');
       var isInternal = (href) => {
           return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
       }

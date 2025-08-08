@@ -6,7 +6,7 @@ website:
   navbar:
     left:
       - href: index.qmd
-        text: Home
+        text: ''
       # - href: about.qmd
       #   text: About
     right: 
@@ -17,5 +17,5 @@ format:
   html:
     theme: cosmo
     css: styles.css
-    toc: true
+    toc: false
 
